@@ -15,6 +15,9 @@ Each voter can only vote once.
 Voting status and results are publicly accessible on the blockchain.
 Owner of the contract can open and close the voting process.
 
+# Demo
+<iframe width="560" height="315" src="https://youtu.be/G5EdHiutFtY" frameborder="0" allowfullscreen></iframe>
+
 ## Installation
 ### Step 1. Clone the repository:
 
