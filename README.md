@@ -1,6 +1,9 @@
 # EtherVote
 A blockchain based Voting Decentralized application created in React and Solidity.
 
+# Demo
+https://github.com/vaibhav0006/VOTING_SYSTEM/assets/135981877/62cde34a-187b-4b26-8f7d-e8391496c58f
+
 # Description
 “Blockchain Based Voting System” is a web based online voting system primarily based on ethereum blockchain technology. Blockchain is a transparent, distributed, immutable and trustless ledger and to overcome the problems of the traditional voting system, blockchain plays a vital role in terms of security, trust and more. Here anyone eligible for voting can vote for their favorite candidate and they can see the result after the end of the election. It is fast, secure, and has low cost as compared to traditional voting systems.
 
@@ -14,9 +17,6 @@ Use of Solidity smart contracts for vote management.
 Each voter can only vote once.
 Voting status and results are publicly accessible on the blockchain.
 Owner of the contract can open and close the voting process.
-
-# Demo
-<iframe width="560" height="315" src="https://youtu.be/G5EdHiutFtY" frameborder="0" allowfullscreen></iframe>
 
 ## Installation
 ### Step 1. Clone the repository:
